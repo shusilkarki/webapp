@@ -1,7 +1,6 @@
 Django>=4.2
 gunicorn
 djangorestframework
-mysqlclient  # For MySQL (remove if not using MySQL)
 django-environ  # For environment variable management
 whitenoise  # For static file handling in production
 Pillow  # For image processing
